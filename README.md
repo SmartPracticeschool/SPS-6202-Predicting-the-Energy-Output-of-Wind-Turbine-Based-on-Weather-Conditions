@@ -1,0 +1,3 @@
+# SPS-6202-Predicting-the-Energy-Output-of-Wind-Turbine-Based-on-Weather-Conditions
+Predicting the Energy Output of Wind Turbine Based on Weather Conditions
+Wind energy plays an increasing role in the supply of energy worldwide. The energy output of a wind farm is highly dependent on the weather conditions present at its site. If the output can be predicted more accurately, energy suppliers can coordinate the collaborative production of different energy sources more efficiently to avoid costly overproduction. In this paper, we predict energy prediction based on weather data and analyze the important parameters as well as their correlation on the energy output.
